@@ -1,0 +1,5 @@
+loguru==0.7.3
+pandas==2.2.3
+psutil==6.0.0
+python_dateutil==2.9.0.post0
+schedule==1.2.2
